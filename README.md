@@ -1,4 +1,4 @@
-# Geospatial_Big_Data_Project
+# Geospatial Big Data
 
 This repository contains PostgreSQL code and report for geospatial big data analytics project on New York taxi journey dataset. This was part of the BUSI4369 module taught at the UoN.
 
